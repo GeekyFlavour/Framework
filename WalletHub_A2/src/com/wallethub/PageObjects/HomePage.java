@@ -12,7 +12,7 @@ public class HomePage
 //This Page is to store all locators of HomePage
 
 {
-	//Minor change
+	
 	WebDriver driver;
 	Actions builder;
 	
